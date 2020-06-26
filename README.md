@@ -1,8 +1,8 @@
-# CSP-World-Countries
+# CSP-Map-Coloring
 This repo solves a map-coloring problem with countries of the world. The map-coloring CSP is to assign a color to each region of a map such that any two regions sharing a border have different colors.
 
 ## Table of contents
-- [CSP-World-Countries](#csp-world-countries)
+- [CSP-Map-Coloring](#csp-world-countries)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
